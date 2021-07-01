@@ -1,5 +1,4 @@
 # A Searchable List of Flutter Resources
---
 
 ## Debugging layout sizing problems in Flutter - https://punitd.dev/posts/2020-08-16-debugging-layout-sizing-problems-in-flutter
 ## How to Use Shared Preferences to Stored Data in Flutter - https://alltechsavvy.com/shared-preferences-flutter
@@ -42,5 +41,5 @@
 ## Conditional imports across Flutter and Web - https://medium.com/flutter-community/conditional-imports-across-flutter-and-web-4b88885a886e
 ## Contributing to Flutter: Getting Started  - https://medium.com/flutter-community/contributing-to-flutter-getting-started-a0db68cbcd5b
 ## File and Folder structure in Flutter - https://medium.com/@bleyldev/file-and-folder-structure-in-flutter-967b8be3155e
-## Flutter Hooks, say goodbye to StatefulWidget and reduce boilerplate code - https://medium.com/flutter-community/flutter-hooks-say-goodbye-to-statefulwidget-and-reduce-boilerplate-code-8573d4720f9a
-## Simulating color deficiencies in Flutter - https://panmari.github.io/2020/06/30/flutter-color-deficiencies-html.html
+### Flutter Hooks, say goodbye to StatefulWidget and reduce boilerplate code - https://medium.com/flutter-community/flutter-hooks-say-goodbye-to-statefulwidget-and-reduce-boilerplate-code-8573d4720f9a
+### Simulating color deficiencies in Flutter - https://panmari.github.io/2020/06/30/flutter-color-deficiencies-html.html
