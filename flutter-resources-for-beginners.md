@@ -1,7 +1,7 @@
 # A Searchable List of Flutter Resources
 
 <p align="center">
-    MADE WITH 💙 BY THE FLUTTER COMMUNITY
+    MADE WITH 💙 BY <a href="https://twitter.com/sohail_dev">Sohail]</a>
 </p>
 
 * [Debugging layout sizing problems in Flutter](https://punitd.dev/posts/2020-08-16-debugging-layout-sizing-problems-in-flutter)
