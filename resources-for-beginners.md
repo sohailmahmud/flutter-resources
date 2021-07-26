@@ -47,6 +47,6 @@
 
 
 <p align="center">
-    MADE WITH 💙 BY <a href="https://twitter.com/sohail_dev">SOHAIL</a>
+    MADE WITH 💙 BY <a href="https://linkedin.com/in/sohailmahmud">SOHAIL</a>
 </p>
 
