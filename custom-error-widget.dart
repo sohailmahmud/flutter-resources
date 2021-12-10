@@ -1,4 +1,3 @@
-// Want to support my work 🤝? https://buymeacoffee.com/vandad
 
 class MyErrorWidget extends StatelessWidget {
   final String text;
